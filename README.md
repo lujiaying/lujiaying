@@ -3,7 +3,7 @@
 ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=lujiaying&theme=default&show_icons=true&locale=en&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lujiaying&layout=compact&hide=jupyter%20notebook)
 
 ## 🔥 Streak stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lujiaying)](https://git.io/streak-stats)
 
 ## 📊 Weekly development breakdown
 <!--START_SECTION:waka-->

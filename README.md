@@ -4,6 +4,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lujiaying&layout=compact&hide=jupyter%20notebook)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <!--

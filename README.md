@@ -8,7 +8,8 @@
 ## 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Other   1 hr 6 mins     ████████████████████████░   95.81 % 
+VimL    2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 ```
 <!--END_SECTION:waka-->
 

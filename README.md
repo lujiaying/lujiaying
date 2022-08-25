@@ -9,8 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-HTML   10 mins         █████████████████▓░░░░░░░   70.02 %
-JSON   4 mins          ███████▒░░░░░░░░░░░░░░░░░   29.98 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

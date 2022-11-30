@@ -9,7 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python   2 hrs 44 mins   █████████████████▒░░░░░░░   69.13 %
+Bash     57 mins         ██████░░░░░░░░░░░░░░░░░░░   24.13 %
+netrw    7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Other    5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 
 <!--END_SECTION:waka-->

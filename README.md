@@ -9,8 +9,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-BibTeX   2 mins          █████████████████████▓░░░   87.31 %
-Other    0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+Python   1 hr 55 mins    ███████████████▓░░░░░░░░░   63.06 %
+Other    31 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.34 %
 ```
 
 <!--END_SECTION:waka-->

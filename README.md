@@ -9,10 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Bash      7 mins          ██████████████░░░░░░░░░░░   56.60 %
-netrw     3 mins          ███████░░░░░░░░░░░░░░░░░░   27.97 %
-SSH Key   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
-Other     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

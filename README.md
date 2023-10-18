@@ -9,8 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   23 mins         ████████████████████▓░░░░   82.32 %
-BibTeX     5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.68 %
+Markdown   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

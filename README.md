@@ -9,11 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   32 mins         ████████████████░░░░░░░░░   64.34 %
-BibTeX     12 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.17 %
-YAML       3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-HTML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
